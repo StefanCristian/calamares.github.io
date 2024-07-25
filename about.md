@@ -76,7 +76,7 @@ screenshots:
 ## Who develops Calamares
 {: .offset}
 
-Calamares is maintained by [the Calamares team](/team/). Most of us are also [KDE](https://kde.org){:target="_blank"} developers, and we have received contributions from [BBQLinux](http://bbqlinux.org/){:target="_blank"}, [Fedora](https://fedoraproject.org/){:target="_blank"}, [KaOS](http://kaosx.us/){:target="_blank"}, [Kubuntu](http://kubuntu.org){:target="_blank"}, [Manjaro](http://manjaro.org/){:target="_blank"}, [Maui](http://www.maui-project.org/){:target="_blank"}, [Netrunner](http://www.netrunner.com/){:target="_blank"} and [OpenMandriva](https://www.openmandriva.org/){:target="_blank"} developers as well.
+Calamares is maintained by [the Calamares team](/team/). Most of us are also [KDE](https://kde.org){:target="_blank"} developers, and we have received contributions from BBQLinux, [Fedora](https://fedoraproject.org/){:target="_blank"}, [KaOS](http://kaosx.us/){:target="_blank"}, [Kubuntu](http://kubuntu.org){:target="_blank"}, [Manjaro](http://manjaro.org/){:target="_blank"}, [Maui](http://www.maui-project.org/){:target="_blank"}, [Netrunner](http://www.netrunner.com/){:target="_blank"} and [OpenMandriva](https://www.openmandriva.org/){:target="_blank"} developers as well.
 
 We gladly accept contributions from everyone, and we have no exclusive association with any Linux distribution. Calamares is not a KDE project, or a KaOS project, or a Manjaro project, we are just a bunch of people dumping some code on [GitHub](https://github.com/calamares){:target="_blank"}.
 
