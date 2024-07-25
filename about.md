@@ -93,10 +93,8 @@ Operating systems that already ship Calamares:
 - [ArcoLinux](https://arcolinux.info){:target="_blank"}
 - [Argent Linux](https://rogentos.ro/#Portfolio){:target="_blank"}
 - [Athena OS](https://github.com/Athena-OS/athena-iso){:target="_blank"}
-- [BBQLinux](http://bbqlinux.org/){:target="_blank"}
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/){:target="_blank"}
 - [EndeavourOS](https://endeavouros.com/){:target="_blank"}
-- [Escuelas LINUX](http://escuelaslinux.osdn.jp/index.html){:target="_blank"}
 - [Feren OS](https://ferenos.weebly.com/){:target="_blank"}
 - [Garuda Linux](https://garudalinux.org/){:target="_blank"}
 - [GeckoLinux](http://geckolinux.github.io/){:target="_blank"}
@@ -111,14 +109,11 @@ Operating systems that already ship Calamares:
 - [OpenMamba](http://openmamba.org/en/){:target="_blank"}
 - [OpenMandriva](https://www.openmandriva.org/){:target="_blank"}
 - [Parabola](https://www.parabola.nu/){:target="_blank"}
-- [Parrot OS](https://parrotlinux.org/){:target="_blank"}
 - [Pisi Linux](https://www.pisilinux.org/){:target="_blank"}
 - [Redcore Linux](http://redcorelinux.org/){:target="_blank"}
-- [Sabayon](https://www.sabayon.org/){:target="_blank"}
 - [Salient OS](https://salientos.github.io/){:target="_blank"}
 - [Siduction](https://siduction.org/){:target="_blank"}
 - [TeLOS Linux](https://teloslinux.org){:target="_blank"}
-- [XeroLinux](https://xerolinux.online){:target="_blank"}
 
 Operating systems that are evaluating Calamares in pre-release builds:
 
