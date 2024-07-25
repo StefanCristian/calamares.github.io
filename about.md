@@ -130,7 +130,7 @@ Operating systems that ship Calamares in their package repositories for third-pa
 ## What is Calamares made of
 {: .offset}
 
-Calamares is mostly written in C++17, with Qt 5 (5.9 or later) as general
+Calamares is mostly written in C++17, with Qt (5 or 6) as general
 purpose library and UI toolkit.
 
 Calamares is modular by design, and Python 3 was chosen as the main
