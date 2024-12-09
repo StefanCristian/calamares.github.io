@@ -109,6 +109,7 @@ Operating systems that already ship Calamares:
 - [OpenMamba](http://openmamba.org/en/){:target="_blank"}
 - [OpenMandriva](https://www.openmandriva.org/){:target="_blank"}
 - [Parabola](https://www.parabola.nu/){:target="_blank"}
+- [Parch Linux](https://parchlinux.com/){:target="_blank"}
 - [Pisi Linux](https://www.pisilinux.org/){:target="_blank"}
 - [Redcore Linux](http://redcorelinux.org/){:target="_blank"}
 - [Salient OS](https://salientos.github.io/){:target="_blank"}
