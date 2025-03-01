@@ -131,11 +131,12 @@ Operating systems that ship Calamares in their package repositories for third-pa
 ## What is Calamares made of
 {: .offset}
 
-Calamares is mostly written in C++17, with Qt (5 or 6) as general
+Calamares is mostly written in C++17, with Qt (6, but the code is still Qt5-compatible) as general
 purpose library and UI toolkit.
 
 Calamares is modular by design, and Python 3 was chosen as the main
-scripting language. The Python 3 interface is implemented with Boost.Python,
+scripting language. The Python 3 interface is implemented with pybind11 (Boost.Python is
+available as an alternative),
 and all Calamares configuration is done in YAML.
 
 For a complete list of dependencies, see
@@ -151,4 +152,6 @@ For a complete list of dependencies, see
   - Calamares 3.2.26, 57E14BD1CD6C198BC11BF18D61A7D26277E4D0DB (one release only!)
   - Calamares 3.2.27 - 3.2.49.1, 86B8EDB6ED8E3F96A9BAECB5CFDDC96F12B1915C
   - Calamares 3.2.50 - 3.2.62, 4947400F3746A038900BB178328D742D8807A435 (with some exceptions)
-  - Calamares 3.3.0 - (**current**), 4947400F3746A038900BB178328D742D8807A435
+  - Calamares 3.3.0 - 3.3.9, 3.3.11, 4947400F3746A038900BB178328D742D8807A435
+  - Calamares 3.3.10, 3.3.12, 3.3.13, 6D98B995A1CA6CE4BB906518C7AA337DFA13881E (but release announcement says 4947..)
+  - Calamares 3.3.14 - *current*, 6D98B995A1CA6CE4BB906518C7AA337DFA13881E
